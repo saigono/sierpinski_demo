@@ -1,0 +1,8 @@
+[package]
+name = "sierpinski_demo"
+version = "0.1.0"
+authors = ["Danil Ineev <danil.ineev@yandex.ru>"]
+
+
+[dependencies]
+sfml = "0.9.0"
